@@ -71,7 +71,7 @@
 <h2>Contract Address</h2>
 
 <p><strong>Testnet Contract Address:</strong> <code>ST187TV3T3T69PGKFWBEPHNNFA6HB1CBSZFP7453J.diyaa</code></p>
-<strong>GitHub Repository:</strong> <a href="#">Repository URL</a>
+<strong>GitHub Repository:</strong> <a href="https://github.com/diyaaaaaaaaaaaaaa/AuctionContract">Repository URL</a>
 <img width="2849" height="1451" alt="image" src="https://github.com/user-attachments/assets/f030f2b4-b0fa-4a5e-875c-9de9ed71fd40" />
 
 
