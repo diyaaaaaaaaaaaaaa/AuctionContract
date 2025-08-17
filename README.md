@@ -68,61 +68,11 @@
     <li><strong>Cross-chain Compatibility:</strong> Expand to other blockchain networks</li>
 </ul>
 
-<h2>Contract Functions</h2>
-
-<h3>Core Functions</h3>
-
-<h4>place-bid</h4>
-<pre>
-(place-bid (nft-contract principal) (nft-id uint) (bid-amount uint))
-</pre>
-
-<ul>
-    <li><strong>Purpose:</strong> Allows users to place bids on active NFT auctions</li>
-    <li><strong>Parameters:</strong> 
-        <ul>
-            <li><code>nft-contract</code>: The principal of the NFT contract</li>
-            <li><code>nft-id</code>: The unique identifier of the NFT</li>
-            <li><code>bid-amount</code>: The bid amount in STX</li>
-        </ul>
-    </li>
-    <li><strong>Returns:</strong> Success response with bid details or error code</li>
-</ul>
-
-<h4>end-auction</h4>
-<pre>
-(end-auction (nft-contract principal) (nft-id uint))
-</pre>
-
-<ul>
-    <li><strong>Parameters:</strong> 
-        <ul>
-            <li><code>nft-contract</code>: The principal of the NFT contract</li>
-            <li><code>nft-id</code>: The unique identifier of the NFT</li>
-        </ul>
-    </li>
-    <li><strong>Returns:</strong> Success response with auction results or error code</li>
-</ul>
-
-<h3>Read-Only Functions</h3>
-
-<h4>get-auction-info</h4>
-<ul>
-    <li><strong>Purpose:</strong> Retrieves detailed information about a specific auction</li>
-    <li><strong>Returns:</strong> Auction data including seller, highest bidder, and status</li>
-</ul>
-
-<h4>get-bidder-funds</h4>
-<ul>
-    <li><strong>Purpose:</strong> Checks the current bid amount for a specific bidder</li>
-    <li><strong>Returns:</strong> Amount of STX currently locked in bids</li>
-</ul>
-
 <h2>Contract Address</h2>
 
-<p><strong>Testnet Contract Address:</strong> <code>[To be deployed]</code></p>
+<p><strong>Testnet Contract Address:</strong> <code>ST187TV3T3T69PGKFWBEPHNNFA6HB1CBSZFP7453J.diyaa</code></p>
+<strong>GitHub Repository:</strong> <a href="#">Repository URL</a>
 
-<p><strong>Mainnet Contract Address:</strong> <code>[To be deployed]</code></p>
 
 <h3>Deployment Instructions</h3>
 
@@ -172,18 +122,9 @@ clarinet console</pre>
     <li>All transactions are publicly verifiable on the blockchain</li>
 </ul>
 
-<h2>Support and Community</h2>
-
-<ul>
-    <li><strong>Documentation:</strong> <a href="#">Link to detailed docs</a></li>
-    <li><strong>GitHub Repository:</strong> <a href="#">Repository URL</a></li>
-    <li><strong>Discord Community:</strong> <a href="#">Discord invite</a></li>
-    <li><strong>Twitter Updates:</strong> <a href="#">Twitter handle</a></li>
-</ul>
-
 <hr>
 
-<p><em>Built with ❤️ on Stacks blockchain using Clarity smart contracts</em></p>
+<p><em>Built with ❤ on Stacks blockchain using Clarity smart contracts</em></p>
 
 </body>
 </html>
