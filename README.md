@@ -72,55 +72,8 @@
 
 <p><strong>Testnet Contract Address:</strong> <code>ST187TV3T3T69PGKFWBEPHNNFA6HB1CBSZFP7453J.diyaa</code></p>
 <strong>GitHub Repository:</strong> <a href="#">Repository URL</a>
+<img width="2849" height="1451" alt="image" src="https://github.com/user-attachments/assets/f030f2b4-b0fa-4a5e-875c-9de9ed71fd40" />
 
-
-<h3>Deployment Instructions</h3>
-
-<ol>
-    <li><strong>Prerequisites:</strong>
-        <ul>
-            <li>Install Clarinet development environment</li>
-            <li>Set up Stacks wallet for contract deployment</li>
-            <li>Ensure sufficient STX for deployment fees</li>
-        </ul>
-    </li>
-    <li><strong>Local Testing:</strong>
-        <pre>clarinet test
-clarinet console</pre>
-    </li>
-    <li><strong>Deployment:</strong>
-        <pre>clarinet deploy --testnet</pre>
-    </li>
-</ol>
-
-<h2>Getting Started</h2>
-
-<h3>For Bidders</h3>
-<ol>
-    <li>Connect your Stacks wallet</li>
-    <li>Browse active auctions using <code>get-auction-info</code></li>
-    <li>Place bids using <code>place-bid</code> function</li>
-    <li>Monitor auction progress</li>
-    <li>Claim your NFT if you win</li>
-</ol>
-
-<h3>For Sellers</h3>
-<ol>
-    <li>Deploy your NFT to the auction contract</li>
-    <li>Set auction parameters (end block, starting bid)</li>
-    <li>Monitor bidding activity</li>
-    <li>Receive STX payment when auction ends</li>
-</ol>
-
-<h2>Security Considerations</h2>
-
-<ul>
-    <li>All funds are held securely in the contract until auction completion</li>
-    <li>Previous bids are automatically returned when outbid</li>
-    <li>Time-based auction endings prevent manipulation</li>
-    <li>Only authorized parties can end auctions</li>
-    <li>All transactions are publicly verifiable on the blockchain</li>
-</ul>
 
 <hr>
 
