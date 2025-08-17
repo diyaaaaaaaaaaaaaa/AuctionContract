@@ -3,50 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NFT Auction Contract - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            line-height: 1.6;
-        }
-        
-        h1 {
-            font-size: 2em;
-            font-weight: bold;
-        }
-        
-        h2 {
-            font-size: 1.5em;
-            font-weight: bold;
-            margin-top: 30px;
-        }
-        
-        h3 {
-            font-size: 1.2em;
-            font-weight: bold;
-            margin-top: 20px;
-        }
-        
-        code {
-            font-family: 'Courier New', monospace;
-            background-color: #f4f4f4;
-            padding: 2px 4px;
-        }
-        
-        pre {
-            font-family: 'Courier New', monospace;
-            background-color: #f4f4f4;
-            padding: 10px;
-            overflow-x: auto;
-        }
-        
-        ul, ol {
-            padding-left: 20px;
-        }
-    </style>
+    
 </head>
 <body>
 
